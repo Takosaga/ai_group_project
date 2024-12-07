@@ -98,8 +98,8 @@ https://github.com/Takosaga/ai_group_project/blob/main/notebooks/object_detectio
     - Class Distribution: S (443), V (3502), C (420)
 
 ### Files
-https://github.com/Takosaga/ai_group_project/blob/main/notebooks/data_sorter_for_unlabeled_data.ipynb
-
+data prep: https://github.com/Takosaga/ai_group_project/blob/main/notebooks/data_sorter_for_unlabeled_data.ipynb
+main notebook: https://github.com/Takosaga/ai_group_project/blob/main/notebooks/yolov8_unlabeled_data_testing.ipynb
 
 ---
 
