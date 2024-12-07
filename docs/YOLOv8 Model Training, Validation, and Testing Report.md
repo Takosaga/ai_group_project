@@ -106,7 +106,7 @@ main notebook: https://github.com/Takosaga/ai_group_project/blob/main/notebooks/
 ### **Step 5: Visualization of Results**
 - Randomly selected 25 annotated images from different datasets.
 
-
+https://github.com/Takosaga/ai_group_project/blob/main/notebooks/unlabaled_images_annotation.ipynb
 ---
 
 ### **Conclusion**
