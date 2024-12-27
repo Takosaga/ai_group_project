@@ -8,6 +8,7 @@
 
 [Kanban Board of project](https://github.com/users/Takosaga/projects/2)
 
+[Very general progress notes](https://github.com/Takosaga/ai_group_project/blob/main/references/Discussion_Meeting_Progress%20Notes.pdf)
 ## Project Timeline
 
 | Week | Task/Deliverable | Responsible |
