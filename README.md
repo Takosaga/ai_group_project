@@ -4,11 +4,12 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-Group course project using AI with the topic of Riga Transportation
+[Group Proposal](https://github.com/Takosaga/ai_group_project/blob/main/references/Project_Proposal_Final_Draft.pdf)
+
+[Kanban Board of project](https://github.com/users/Takosaga/projects/2)
 
 ## Project Organization
 
-Everything will not be used, but gives structure for project
 
 ```
 ├── LICENSE            <- Open-source license if one is chosen
