@@ -1,0 +1,14 @@
+Overall Comparison Summary:
+  Base Model Avg Confidence: 0.8099
+  Augmented Model Avg Confidence: 0.7833
+
+Class Distribution:
+Base Model:
+  S: 9.59%
+  V: 80.30%
+  C: 10.11%
+
+Augmented Model:
+  S: 9.83%
+  V: 83.01%
+  C: 7.16%

@@ -1,0 +1,4 @@
+Test Set 2 Comparison:
+  Agreement Ratio: 3.45%
+  Base Model Avg Confidence: 0.8115
+  Augmented Model Avg Confidence: 0.7863
