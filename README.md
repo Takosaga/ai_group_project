@@ -1,5 +1,10 @@
 # Image Recongnition to Detect Different Vehicle Types in Riga
 
+This project focuses on training a model for accurate vehicle identification and classification within Riga, Latvia. The model is trained to recognize and categorize the following vehicle types:
+
+*   **V (Passenger Vehicles):** This category includes standard cars used for personal transportation. Passenger vehicles represent a significant portion of traffic and provide a valuable baseline for comparison with other vehicle types.
+*   **C (Cargo Vehicles):** This encompasses all commercial vehicles, from smaller vans (C1) to large trucks with trailers (C4). Tracking cargo vehicles is crucial due to their larger size and lower speeds, which can contribute to increased traffic congestion.
+*   **S (Buses):** This category specifically targets public transport buses. Monitoring buses is essential for understanding their impact on traffic flow and public transportation schedules.
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
