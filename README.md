@@ -1,4 +1,4 @@
-# Image Recongnition to Detect Different Vehicle Types in Riga
+# Image Recognition to Detect Different Vehicle Types in Riga
 
 This project focuses on training a model for accurate vehicle identification and classification within Riga, Latvia. The model is trained to recognize and categorize the following vehicle types:
 
