@@ -31,6 +31,8 @@
 | 7 | Final Model adjustments and validation | Dmitrijs, Eden |
 | 8 | Final presentation | Dmitrijs, Eden, Gonzalo |
 
+[Detailed timeline and assigned responsibilities](https://github.com/users/Takosaga/projects/2/views/4)
+
 ## Project Organization
 
 
