@@ -1,14 +1,28 @@
-# AI Group Project
+# Image Recongnition to Detect Different Vehicle Types in Riga
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-Group course project using AI with the topic of Riga Transportation
+[Group Proposal](https://github.com/Takosaga/ai_group_project/blob/main/references/Project_Proposal_Final_Draft.pdf)
+
+[Kanban Board of project](https://github.com/users/Takosaga/projects/2)
+
+## Project Timeline
+
+| Week | Task/Deliverable | Responsible |
+|---|---|---|
+| 1 | Project requirements | Dmitrijs, Eden, Gonzalo |
+| 2 | Data collection, data exploration | Dmitrijs, Eden |
+| 3 | Data annotation, data formatting | Dmitrijs, Eden |
+| 4 | Model training and evaluation | Dmitrijs, Eden |
+| 5 | Model improvement and tuning | Dmitrijs, Eden |
+| 6 | Model testing with new data | Dmitrijs, Eden |
+| 7 | Final Model adjustments and validation | Dmitrijs, Eden |
+| 8 | Final presentation | Dmitrijs, Eden, Gonzalo |
 
 ## Project Organization
 
-Everything will not be used, but gives structure for project
 
 ```
 ├── LICENSE            <- Open-source license if one is chosen
@@ -43,20 +57,7 @@ Everything will not be used, but gives structure for project
 │
 └── project_packages   <- Source code for use in this project.
     │
-    ├── __init__.py             <- Makes ai_group_project a Python module
-    │
-    ├── config.py               <- Store useful variables and configuration
-    │
-    ├── dataset.py              <- Scripts to download or generate data
-    │
-    ├── features.py             <- Code to create features for modeling
-    │
-    ├── modeling                
-    │   ├── __init__.py 
-    │   ├── predict.py          <- Code to run model inference with trained models          
-    │   └── train.py            <- Code to train models
-    │
-    └── plots.py                <- Code to create visualizations
+    └── __init__.py             <- Makes ai_group_project a Python module
 ```
 
 --------
