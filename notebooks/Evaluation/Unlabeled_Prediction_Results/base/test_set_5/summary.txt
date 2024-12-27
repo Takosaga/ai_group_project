@@ -1,0 +1,19 @@
+Metrics for Test Set 5:
+Class Distribution:
+  S: 443
+  V: 3511
+  C: 421
+
+Class Ratios (Percentages):
+  S: 10.13%
+  V: 80.25%
+  C: 9.62%
+
+Confidence Score Statistics:
+  Average Confidence: 0.8069
+  Median Confidence: 0.8491
+  Standard Deviation of Confidence: 0.1307
+
+Average Box Size:
+  Average Width: 112.03
+  Average Height: 67.67
