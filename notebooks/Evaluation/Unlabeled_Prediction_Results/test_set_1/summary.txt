@@ -1,0 +1,19 @@
+Metrics for Test Set 1:
+Class Distribution:
+  S: 411
+  V: 3495
+  C: 311
+
+Class Ratios (Percentages):
+  S: 9.75%
+  V: 82.88%
+  C: 7.37%
+
+Confidence Score Statistics:
+  Average Confidence: 0.7827
+  Median Confidence: 0.8181
+  Standard Deviation of Confidence: 0.1267
+
+Average Box Size:
+  Average Width: 115.54
+  Average Height: 67.45
