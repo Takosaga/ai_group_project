@@ -8,6 +8,19 @@
 
 [Kanban Board of project](https://github.com/users/Takosaga/projects/2)
 
+## Project Timeline
+
+| Week | Task/Deliverable | Responsible |
+|---|---|---|
+| 1 | Project requirements | Dmitrijs, Eden, Gonzalo |
+| 2 | Data collection, data exploration | Dmitrijs, Eden |
+| 3 | Data annotation, data formatting | Dmitrijs, Eden |
+| 4 | Model training and evaluation | Dmitrijs, Eden |
+| 5 | Model improvement and tuning | Dmitrijs, Eden |
+| 6 | Model testing with new data | Dmitrijs, Eden |
+| 7 | Final Model adjustments and validation | Dmitrijs, Eden |
+| 8 | Final presentation | Dmitrijs, Eden, Gonzalo |
+
 ## Project Organization
 
 
