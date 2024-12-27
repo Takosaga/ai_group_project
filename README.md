@@ -9,6 +9,15 @@
 [Kanban Board of project](https://github.com/users/Takosaga/projects/2)
 
 [Very general progress notes](https://github.com/Takosaga/ai_group_project/blob/main/references/Discussion_Meeting_Progress%20Notes.pdf)
+
+## Team Roles
+
+| Name | Title | Roles |
+|---|---|---|
+| Dmitrijs | Data Engineer | Business Understanding, Data Preparation, Modelling, Test & Validate |
+| Eden | Data Analyst | Business Understanding, Data Understanding, Modelling, Communication of Insights |
+| Gonzalo | Project Manager | Management, Support |
+
 ## Project Timeline
 
 | Week | Task/Deliverable | Responsible |
