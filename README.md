@@ -24,7 +24,7 @@
 |---|---|---|
 | 1 | Project requirements | Dmitrijs, Eden, Gonzalo |
 | 2 | Data collection, data exploration | Dmitrijs, Eden |
-| 3 | Data annotation, data formatting | Dmitrijs, Eden |
+| 3 | Data annotation, data formatting | Dmitrijs, Eden, Gonzalo |
 | 4 | Model training and evaluation | Dmitrijs, Eden |
 | 5 | Model improvement and tuning | Dmitrijs, Eden |
 | 6 | Model testing with new data | Dmitrijs, Eden |
