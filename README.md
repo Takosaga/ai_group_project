@@ -5,9 +5,18 @@ This project focuses on training a model for accurate vehicle identification and
 *   **V (Passenger Vehicles):** This category includes standard cars used for personal transportation. Passenger vehicles represent a significant portion of traffic and provide a valuable baseline for comparison with other vehicle types.
 *   **C (Cargo Vehicles):** This encompasses all commercial vehicles, from smaller vans (C1) to large trucks with trailers (C4). Tracking cargo vehicles is crucial due to their larger size and lower speeds, which can contribute to increased traffic congestion.
 *   **S (Buses):** This category specifically targets public transport buses. Monitoring buses is essential for understanding their impact on traffic flow and public transportation schedules.
-<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
-    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
-</a>
+
+
+## Highlights
+
+- **Objective:** Develop a real-time vehicle classification system using live webcam feeds from Riga.
+- **Tools Used:** YOLOv8, Google Cloud Platform, FFmpeg, Albumentations, and CVAT for annotations.
+- **Key Results:**
+  - Base model: Precision 75.27%, Recall 78.98%, mAP@0.5: 82.12%.
+  - Augmented model: Precision 79.12%, Recall 79.01%, mAP@0.5: 83.79%.
+  - Augmentation led to ~2.2% improvement in confidence metrics and ~5.5% reduction in prediction variability.
+  - Demonstrated real-world applicability with evaluations on unlabeled data.
+
 
 [Group Proposal](https://github.com/Takosaga/ai_group_project/blob/main/references/Project_Proposal_Final_Draft.pdf)
 
@@ -38,8 +47,24 @@ This project focuses on training a model for accurate vehicle identification and
 
 [Detailed timeline and assigned responsibilities](https://github.com/users/Takosaga/projects/2/views/4)
 
+
+## Key Project Features
+
+- **Data Collection:** Webcam feeds processed via FFmpeg; images stored in Google Cloud.
+- **Annotation:** Used CVAT for precise labeling.
+- **Augmentation:** Applied transformations (rotations, brightness adjustments, etc.) via Albumentations.
+- **Evaluation:** Precision, recall, and mAP metrics across test sets and unlabeled data.
+
+## Challenges and Lessons Learned
+
+- Overcame restricted access to video streams using customized HTTP headers and FFmpeg.
+- Manual annotation was time-intensive but improved with team coordination.
+- Augmented datasets required higher computational and storage resources.
 ## Project Organization
 
+<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
+    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
+</a>
 
 ```
 ├── LICENSE            <- Open-source license if one is chosen
@@ -76,6 +101,12 @@ This project focuses on training a model for accurate vehicle identification and
     │
     └── __init__.py             <- Makes ai_group_project a Python module
 ```
+
+## Final Thoughts
+
+This project demonstrates the power of modern object detection frameworks like YOLOv8 combined with robust data pipelines. The integration of cloud storage and augmentation significantly enhanced model performance and scalability.
+
+
 
 --------
 
