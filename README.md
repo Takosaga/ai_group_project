@@ -1,5 +1,7 @@
 # Image Recognition to Detect Different Vehicle Types in Riga
 
+![](https://github.com/Takosaga/ai_group_project/blob/main/reports/figures/results_unlabeled_20241127_122537.jpg)
+
 This project focuses on training a model for accurate vehicle identification and classification within Riga, Latvia. The model is trained to recognize and categorize the following vehicle types:
 
 *   **V (Passenger Vehicles):** This category includes standard cars used for personal transportation. Passenger vehicles represent a significant portion of traffic and provide a valuable baseline for comparison with other vehicle types.
@@ -23,6 +25,8 @@ This project focuses on training a model for accurate vehicle identification and
 [Kanban Board of project](https://github.com/users/Takosaga/projects/2)
 
 [Very general progress notes](https://github.com/Takosaga/ai_group_project/blob/main/references/Discussion_Meeting_Progress%20Notes.pdf)
+
+[Final Presentation](https://github.com/Takosaga/ai_group_project/blob/main/reports/Image%20Recognition%20to%20Detect%20Different%20Vehicle%20Types%20in%20Riga.pdf)
 
 ## Team Roles
 
